@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ejemplo de errores</title>
-    
-<style>
-        body {
+body {
             background-color: lightblue;
             font-family: Arial, sans-serif;
         
@@ -45,4 +37,3 @@
         .highlight {
             color: blue
         }
-    </style>
